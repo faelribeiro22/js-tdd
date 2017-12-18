@@ -29,3 +29,13 @@ const array = ['Rafael', 'Ribeiro', 25, 'Udia'];
 
 const [firsName, secondName, age, cityAbbreviated] = array;
 console.log(firsName, secondName, age, cityAbbreviated);
+
+// Swap = inverter valores de variavéis
+let a = 42;
+let b = 21;
+
+console.log(`A = ${a} B = ${b}`);
+
+[a, b] = [b, a];
+
+console.log(`A = ${a} B = ${b}`);
