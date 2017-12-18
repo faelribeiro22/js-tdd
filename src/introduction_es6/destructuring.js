@@ -23,7 +23,7 @@ const { city = 'Udia' } = data;
 console.log(city);
 console.log(data);
 
-//Destructuring array
+// Destructuring array
 
 const array = ['Rafael', 'Ribeiro', 25, 'Udia'];
 
