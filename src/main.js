@@ -1,9 +1,17 @@
-const a = 3;
-const b = 2;
+module.exports = {
+  sum(num1, num2) {
+    return num1 + num2;
+  },
 
-const c = 'asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasfasdfasdfasdfasdfasdfasfasdfasfdasfdsadf';
-console.log('eiiii');
-function sum() {
-  return a + b + c;
-}
-sum();
+  sub(num1, num2) {
+    return num1 - num2;
+  },
+
+  mult(num1, num2) {
+    return num1 * num2;
+  },
+
+  div(num1, num2) {
+    return (num2 === 0) ? 'Não é possível dividir por zero' : num1 / num2;
+  },
+};

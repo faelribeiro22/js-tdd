@@ -1,10 +1,10 @@
 # JS TDD
 
-One Paragraph of project description goes here
+Projeto base do curso de TDD com javascritpt ministrado por Willian Justen no site Udemy https://www.udemy.com/js-com-tdd-na-pratica
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone o repositório
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
